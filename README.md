@@ -2,7 +2,7 @@
 
 
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+[![crypto](file:///C:/Users/ABBAS/Desktop/CoinGecko-Search-Trends.jpg)
 
 ## Demo
 #### Here is a working live demo :  https://crypto-hunter.netlify.app/
@@ -14,7 +14,6 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 ## Made with ♥ By [Mohd Abbas]
-
-[![Mohd Abbas](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/Mdabbas777)
+[![Mohd Abbas](https://ibb.co/x7p4xFN)](https://github.com/Mdabbas777)
 
 MIT © [Mohd Abbas ](https://github.com/Mdabbas777)
